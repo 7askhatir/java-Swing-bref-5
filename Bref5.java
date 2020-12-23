@@ -248,7 +248,7 @@ public class Bref5 implements ActionListener {
             case "4":if('4'==Cas[j+a])porsontage+=20;else porsontage+=0;j++;nextQ(a);break;  
             case "LV2" :   new  Bref5(5);break;
             case "LV3" :  new Bref5(10);break;
-            case "Fin" : JOptionPane.showMessageDialog(null, "You wiiin" , "InfoBox: ", JOptionPane.INFORMATION_MESSAGE);
+            case "FIN" : JOptionPane.showMessageDialog(null, "You wiiin" , "InfoBox: ", JOptionPane.INFORMATION_MESSAGE);
                               
                                                  
         }  
